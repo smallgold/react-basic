@@ -4,3 +4,5 @@
 [React Internals](http://www.mattgreer.org/)
 
 [Build Own React](https://github.com/hexacta/didact)
+
+[React高阶组件](https://github.com/louzhedong/blog/issues/1)
